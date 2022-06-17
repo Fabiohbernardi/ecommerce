@@ -19,23 +19,13 @@
 - [Sobre](#sobre)
 - [Navegar no website](#navegar)
 - [Como usar](#navegar)
-  - [Demonstração da aplicação](https://dev-celo.github.io/ecommerce/)
-  - [Remote files](https://github.com/dev-celo/ecommerce)
+    - [Remote files](https://github.com/dev-celo/ecommerce)
 - [Tecnologias](#tecnologias)
 <!--te-->
 
-# Sobre:
 
-<div id="sobre">
-    <p>
-     Cara é um ecommerce completo em vanilla Javascript, onde um dos principais desafios foi o curso completo em inglês no youtube do Tech2 etc.
-     Site totalmente responsivo usando media query, se adapta aos principais tipos de telas.
-    </p>
-    </br>
-    <p>
-    Trabalho realizado com o pessoal do tech2 etc onde criamos uma página de vendas on-line, com técnicas avanadas de CSS.
-    </p>
-</div>
+
+
 
 # Navegar no site:
 
