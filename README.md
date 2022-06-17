@@ -19,8 +19,7 @@
 - [Sobre](#sobre)
 - [Navegar no website](#navegar)
 - [Como usar](#navegar)
-    - [Remote files](https://github.com/dev-celo/ecommerce)
-- [Tecnologias](#tecnologias)
+   - [Tecnologias](#tecnologias)
 <!--te-->
 
 
@@ -73,13 +72,7 @@
 - [x] Javascript
       </br>
 
-Um dos projetos mais desafiadores para mim. Primeiro porque quando comecei a desenvolver na linguagem C eu sempre me perguntava:
 
-- Como vou fazer algo real? Nessa tela preta não consigo fazer nada.
-- Quero um dia conseguir fazer um ecommerce... Será que vou conseguir?
-
-E agora estou com o front - end de um ecommerce concluido.
-Agora o projeto só está no inicio, já que agora quero aprender como desenvolver o back - end dessa aplicação.
 
 ## Estudado
 - Ecommerce Responsivo usando HTML CSS & JavaScript.
@@ -93,9 +86,9 @@ Agora o projeto só está no inicio, já que agora quero aprender como desenvolv
 </div>
 
 <div align = "center" style="border-top: 1px solid grey; padding-top: 20px;">
-#### Olá me chamo Marcelo, fique à vontade para opinar :)
+
 
   <p>Se você chegou até aqui, muito obrigado por visitar esse perfil! Espero que tenha gostaddo do conteúdo.</p>
   
-  Você pode acessar a página [Clicando aqui](https://dev-celo.github.io/ecommerce/)
+  
 </div>
